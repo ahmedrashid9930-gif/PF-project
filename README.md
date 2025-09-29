@@ -4,7 +4,7 @@ CCP_Proposal_PROGRAMMING FUNDAMENTALS
 ## 👥 Group Members
 
 - Ahmed Rashid CT-079 – Project Lead / Coding  
-- GHULAM Rasool CT-082 
-- WALEED CT-099  
+- GHULAM Rasool CT-082 -Logic & Testing
+ - WALEED CT-099 -Documentation Writer 
  
 
