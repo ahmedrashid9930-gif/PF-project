@@ -84,3 +84,41 @@ int main() {
 return 0;
 }
 
+float add(float a, float b)
+{
+    return a + b;
+}
+
+float subtract(float a, float b)
+{
+    return a - b;
+}
+
+float multiply(float a, float b)
+{
+    return a * b;
+}
+
+float divide(float a, float b)
+{
+    return a / b;
+}
+
+float power(float base, float exp)
+{
+    return powf(base, exp);
+}
+
+long long factorial(int n)
+{
+    if(n == 0)
+        return 1;
+    else
+        return n * factorial(n - 1);
+}
+
+float squareRoot(float n)
+{
+    return sqrtf(n);
+}
+
